@@ -19,3 +19,5 @@ Functions:
 * Insert item to Tree
 * Search item to Tree
 * Delete item from Tree
+
+Project description (in Greek): [project](https://drive.google.com/file/d/1Qv_abZiiA8cICCk4HGQ8SAC-K64hH0W7/view)
